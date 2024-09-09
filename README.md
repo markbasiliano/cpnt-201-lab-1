@@ -2,4 +2,4 @@
 
 ## How to make a diamond sword
 
-Gather a stick and two diamonds
+Gather a stick and two **diamonds**
